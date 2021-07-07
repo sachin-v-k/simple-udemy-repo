@@ -1,4 +1,5 @@
-This is the simple Markdown file to practice during the course Git and GitHub for Writers.
+This documentation describes how to use the Pavel robotic
+toothbrush.
 
-* Adding point 1
-* Adding point 2
+**Note** This toothbrush is not safe to use for children,
+adults, or pets.
