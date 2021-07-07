@@ -1,0 +1,1 @@
+This is the simple Markdown file to practice during the course Git and GitHub for Writers.
